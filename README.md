@@ -43,7 +43,7 @@ application using the following tags:
 Для Windows:
 
 ```bash
-git clone git@github.com:ilya-kutylev/draw_menu_django.git
+git clone https://github.com/Ilya-kutylev/draw_menu_django.git
 cd draw_menu_django
 pipenv shell
 pipenv install
