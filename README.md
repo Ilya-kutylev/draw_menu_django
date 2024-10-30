@@ -45,8 +45,8 @@ application using the following tags:
 ```bash
 git clone https://github.com/Ilya-kutylev/draw_menu_django.git
 cd draw_menu_django
-pipenv shell
 pipenv install
+pipenv shell
 python manage.py migrate
 ```
 
